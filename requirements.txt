@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+langchain
+langchain-groq
+pdfplumber
+faiss-gpu
+ollama
